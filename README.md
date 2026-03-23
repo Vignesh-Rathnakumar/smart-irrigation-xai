@@ -171,7 +171,7 @@ SHAP Explainability  ──►  Feature Contributions
 If you use this work, please cite:
 
 ```
-V. Rathnakumar, C. Janani, and M. Dhyanesh, "Explainable AI for Smart 
+R.Vignesh, C. Janani, and M. Dhyanesh, "Explainable AI for Smart 
 Irrigation Using Soil Moisture and Climate Data," in Proceedings of the 
 7th International Conference on Intelligent Communication Technologies 
 and Virtual Mobile Networks (ICICV 2026), May 2026.
